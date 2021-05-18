@@ -3,14 +3,14 @@
 # This file will explain app setup.
 
 
-STEP 1 
+[STEP 1 ]
 Prepare application / create container images
 -> docker-compose up -d
 -> docker images
 -> docker ps
 
 
-STEP 2 
+[STEP 2 ]
 Create an Azure Container Registry
 
 -> az group create --name publicResourceGrp --location southuk
